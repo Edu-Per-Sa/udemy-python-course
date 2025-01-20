@@ -1,0 +1,13 @@
+**********************
+****  20250118
+**********************
+
+    int()
+        -> Convert float or string number to integer number.
+
+        -> If you use float, just cut the decimal part.
+
+    float() ->
+        -> Convert a string number or integer to float number.
+
+

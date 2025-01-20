@@ -1,0 +1,22 @@
+
+
+
+**********************
+****  20250117
+**********************
+
+    NOTE: 
+
+
+
+**********************
+****  20250118
+**********************
+
+    FLOAT ->
+    Los numeros como los procesa la computadora es en sistema binario, con lo que las divisiones las representa con numeros que son dividos entre 2.
+        
+        EJ ->
+            5/10 -> Da un resultado exacnto de 0.5 porque esto se puede representar como 1/2.
+        
+            10-0.9 -> Este no da 0.1 porque no se puede representar con numeros divididos entre 2.
