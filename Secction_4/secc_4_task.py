@@ -23,7 +23,7 @@ persons_30 = [el["name"] for el in persons if el["age"] > 30]
 print("List of persons more than 30 ---> ", persons_30)
 
 # Task 4
-persons_copy = persons[:]
+persons_copy = [person.copy() for person in persons]
 print("persons is persons_copy? ---> ", persons_copy is persons)
 
 persons_copy[0]["name"] = "JULIO"
