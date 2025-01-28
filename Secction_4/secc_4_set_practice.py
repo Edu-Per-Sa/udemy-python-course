@@ -62,3 +62,17 @@ set_2.add("JUAN")
 
 print("Set_1 (GOOD) ---> ", set_1)
 print("Set_2 (GOOD) ---> ", set_2)
+
+
+
+# For with enumerate
+print("Printing for with enumerate by element---> ")
+for element in enumerate(set_1):
+    print(element)
+
+
+# For with enumerate and unpacking
+print("Printing for with enumerate and unpacking ---> ")
+for index, value in enumerate(set_1):
+    print(index, value)
+
